@@ -28,14 +28,30 @@ My interests span **digital logic, CMOS circuit design and physical layout**. I 
 | Logic design and Verilog fundamentals | Transistor-level design and circuit simulation | IC layout and physical verification |
 | Describing hardware behavior | Understanding voltage response and device sizing | Connecting schematics to layout through DRC and LVS |
 
-### Tools & languages
+### Tools & tech stack
 
-| Area | Tools |
-| :--- | :--- |
-| Hardware description & programming | Verilog · C · Python |
-| Custom IC design & simulation | Cadence Virtuoso · Spectre · ADE Explorer |
-| Physical verification | Pegasus · DRC · LVS |
-| Embedded exploration | Arduino · Raspberry Pi |
+**HDL & programming**
+
+![Verilog](https://img.shields.io/badge/Verilog-6366F1?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Custom IC design & simulation**
+
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-C92338?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&logoColor=white)
+![Spectre](https://img.shields.io/badge/Spectre-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&logoColor=white)
+![ADE Explorer](https://img.shields.io/badge/ADE%20Explorer-0077B6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&logoColor=white)
+
+**Physical verification**
+
+![Pegasus](https://img.shields.io/badge/Pegasus-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&logoColor=white)
+![DRC](https://img.shields.io/badge/DRC-146C43?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&logoColor=white)
+![LVS](https://img.shields.io/badge/LVS-0369A1?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&logoColor=white)
+
+**Embedded systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### How I approach learning
 
