@@ -1,30 +1,52 @@
-# Hi there, I'm Arkaprovo! 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/main/assets/vlsi-banner.svg" alt="Arkaprovo — Aspiring VLSI Designer. Digital logic, CMOS circuits and IC layout." width="100%">
+</p>
 
-# 💫 About Me
-I am currently a **B.Tech student** with a deep passion for **VLSI**. I am actively working with **Team Sammpaati**, where I enjoy diving into the design and analysis of critical VLSI systems. 
+<p align="center">
+  <strong>B.Tech Student · Technical Intern at Team Sammpaati</strong><br>
+  Exploring how logic, circuits and layout come together in silicon.
+</p>
 
-When I'm not dealing with logic gates, microcontrollers, and code, you can probably find me exploring new cuisines—I'm a massive foodie! 🍕✨
-
-## 🌐 Let's Connect
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ARKA_PR0) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palarko34@gmail.com) 
-
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Verilog](https://img.shields.io/badge/Verilog-%2334495E.svg?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=C-Y-P-H-E-RPRO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=C-Y-P-H-E-RPRO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Y-P-H-E-RPRO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arkaprovopal">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:palarko34@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://x.com/Arka_PR0">X</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=C-Y-P-H-E-RPRO&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### About me
+
+I'm Arkaprovo, a B.Tech student building a foundation in **VLSI design**. As a Technical Intern at **Team Sammpaati**, I enjoy working with electronics and connecting what I learn in theory to practical design work.
+
+My interests span **digital logic, CMOS circuit design and physical layout**. I want to understand the decisions behind a design—from its intended behavior to its circuit implementation and verification.
+
+### Areas I'm developing
+
+| Digital design | CMOS circuits | Physical design |
+| :--- | :--- | :--- |
+| Logic design and Verilog fundamentals | Transistor-level design and circuit simulation | IC layout and physical verification |
+| Describing hardware behavior | Understanding voltage response and device sizing | Connecting schematics to layout through DRC and LVS |
+
+### Tools & languages
+
+| Area | Tools |
+| :--- | :--- |
+| Hardware description & programming | Verilog · C · Python |
+| Custom IC design & simulation | Cadence Virtuoso · Spectre · ADE Explorer |
+| Physical verification | Pegasus · DRC · LVS |
+| Embedded exploration | Arduino · Raspberry Pi |
+
+### How I approach learning
+
+- Start with the circuit's purpose and understand the design choices.
+- Use simulation and verification results to check assumptions.
+- Document the setup, observations and lessons clearly.
+
+### Let's connect
+
+I'd enjoy connecting with people learning and working in **VLSI, semiconductors and electronics**.
+
+[LinkedIn](https://www.linkedin.com/in/arkaprovopal) · [palarko34@gmail.com](mailto:palarko34@gmail.com)
+
+<sub>Beyond circuits: always curious about new cuisines.</sub>
