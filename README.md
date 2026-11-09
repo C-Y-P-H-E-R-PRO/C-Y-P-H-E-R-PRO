@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/3dae339608d87a4a34cda1ea4b90af41ba639ee3/assets/vlsi-banner.svg" alt="Arkaprovo — Aspiring VLSI Designer. Tiny transistors. Big curiosity. A playful neon chip mascot with an animated clock waveform." width="100%">
+  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/d04e38f8e2223c559ee4cf1dbb4e6e966592ac5e/assets/vlsi-banner.svg" alt="Arkaprovo — Aspiring VLSI Designer. Dark graphite banner with an isometric silicon die, electric blue circuit traces and amber accents." width="100%">
 </p>
 
 <p align="center"><strong>B.Tech Student &nbsp; / &nbsp; Technical Intern at Team Sammpaati</strong></p>
