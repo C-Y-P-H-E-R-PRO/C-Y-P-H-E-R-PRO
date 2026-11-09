@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arkaprovopal"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="mailto:palarko34@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=5EEAD4"></a>
-  <a href="https://x.com/Arka_PR0"><img alt="Find me on X" src="https://img.shields.io/badge/Follow-1E293B?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>
+  <a href="https://arkaprovo.vercel.app"><img alt="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"></a>
 </p>
 
 ### Behind the circuits
@@ -58,5 +58,5 @@ I learn best by connecting theory to practical work, checking assumptions, and w
 
 <p align="center"><strong>Let's talk silicon.</strong><br>
 Happy to connect with people learning and working in VLSI, semiconductors and electronics.<br><br>
-<a href="https://www.linkedin.com/in/arkaprovopal">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:palarko34@gmail.com">palarko34@gmail.com</a><br><br>
+<a href="https://arkaprovo.vercel.app">Portfolio</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/arkaprovopal">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:palarko34@gmail.com">palarko34@gmail.com</a><br><br>
 <sub>Beyond the lab: always curious about new cuisines.</sub></p>
