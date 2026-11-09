@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/main/assets/vlsi-banner.svg?v=2" alt="Arkaprovo — Aspiring VLSI Designer. From logic to silicon. Exploring digital design, CMOS circuits and physical layout." width="100%">
+  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/main/assets/vlsi-banner.svg?v=3" alt="Arkaprovo — Aspiring VLSI Designer. From logic to silicon. Exploring digital design, CMOS circuits and physical layout." width="100%">
 </p>
 
 <p align="center"><strong>B.Tech Student &nbsp; / &nbsp; Technical Intern at Team Sammpaati</strong></p>
