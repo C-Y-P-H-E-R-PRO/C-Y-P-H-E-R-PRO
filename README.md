@@ -27,36 +27,38 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 <td width="50%" valign="top">
 <h3>01 &nbsp; HDL &amp; programming</h3>
 <p><sub>Hardware description &nbsp; / &nbsp; scripting</sub></p>
-<p><img alt="Verilog" src="https://img.shields.io/badge/Verilog-334155?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="C" src="assets/c-badge.svg"> <img alt="Python" src="https://img.shields.io/badge/Python-334155?style=for-the-badge&amp;logo=python&amp;logoColor=white"></p>
+<p><img alt="Verilog" src="assets/skills/verilog.svg" width="120" height="128"> <img alt="C" src="assets/skills/c.svg" width="120" height="128"> <img alt="Python" src="assets/skills/python.svg" width="120" height="128"></p>
 </td>
 <td width="50%" valign="top">
 <h3>02 &nbsp; Custom IC &amp; circuit simulation</h3>
 <p><sub>Schematic &nbsp; / &nbsp; simulation &nbsp; / &nbsp; layout</sub></p>
-<p><img alt="Cadence Virtuoso" src="https://img.shields.io/badge/Cadence%20Virtuoso-365341?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="Spectre" src="https://img.shields.io/badge/Spectre-365341?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"> <img alt="ADE Explorer" src="https://img.shields.io/badge/ADE%20Explorer-365341?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"></p>
+<p><img alt="Cadence Virtuoso" src="assets/skills/cadence-virtuoso.svg" width="120" height="128"> <img alt="Spectre" src="assets/skills/spectre.svg" width="120" height="128"> <img alt="ADE Explorer" src="assets/skills/ade-explorer.svg" width="120" height="128"></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>03 &nbsp; Digital implementation &amp; analysis</h3>
 <p><sub>Implementation &nbsp; / &nbsp; timing &nbsp; / &nbsp; power &nbsp; / &nbsp; debug</sub></p>
-<p><img alt="Innovus" src="https://img.shields.io/badge/Innovus-3D4A2C?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="Tempus" src="https://img.shields.io/badge/Tempus-3D4A2C?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"> <img alt="Voltus" src="https://img.shields.io/badge/Voltus-3D4A2C?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"> <img alt="SimVision" src="https://img.shields.io/badge/SimVision-3D4A2C?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDExaDRWNGg2djE2aDRWOWg4djJoLTZ2MTFIOVY2SDd2N0gxdi0yeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"></p>
+<p><img alt="Innovus" src="assets/skills/innovus.svg" width="120" height="128"> <img alt="Tempus" src="assets/skills/tempus.svg" width="120" height="128"><br>
+<img alt="Voltus" src="assets/skills/voltus.svg" width="120" height="128"> <img alt="SimVision" src="assets/skills/simvision.svg" width="120" height="128"></p>
 </td>
 <td width="50%" valign="top">
 <h3>04 &nbsp; Physical verification &amp; extraction</h3>
 <p><sub>Geometry &nbsp; / &nbsp; connectivity &nbsp; / &nbsp; parasitics</sub></p>
-<p><img alt="Pegasus" src="https://img.shields.io/badge/Pegasus-245458?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="Quantus" src="https://img.shields.io/badge/Quantus-245458?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="DRC" src="https://img.shields.io/badge/DRC-245458?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="LVS" src="https://img.shields.io/badge/LVS-245458?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDMgNXY3YzAgNSA0IDkgOSAxMSA1LTIgOS02IDktMTFWNWwtOS00em0tMSAxNi01LTUgMi0yIDMgMyA2LTYgMiAyLTggOHoiLz48L3N2Zz4%3D&amp;logoColor=white"></p>
+<p><img alt="Pegasus" src="assets/skills/pegasus.svg" width="120" height="128"> <img alt="Quantus" src="assets/skills/quantus.svg" width="120" height="128"><br>
+<img alt="DRC" src="assets/skills/drc.svg" width="120" height="128"> <img alt="LVS" src="assets/skills/lvs.svg" width="120" height="128"></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>05 &nbsp; FPGA design &amp; development</h3>
 <p><sub>FPGA implementation &nbsp; / &nbsp; software &nbsp; / &nbsp; power planning</sub></p>
-<p><img alt="Vivado" src="https://img.shields.io/badge/Vivado-384B63?style=for-the-badge&amp;logo=amd&amp;logoColor=white"> <img alt="Vitis" src="https://img.shields.io/badge/Vitis-384B63?style=for-the-badge&amp;logo=amd&amp;logoColor=white"> <img alt="PDM" src="https://img.shields.io/badge/PDM-384B63?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIvPjxwYXRoIGQ9Ik04IDJ2M200LTN2M200LTN2M004IDE5djNtNC0zdjNtNC0zdjNNMiA4aDNtLTMgNGgzbS0zIDRoM20xNC04aDNtLTMgNGgzbS0zIDRoMyIvPjwvZz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0ibTEzIDYtNiA4aDRsLTEgNSA3LTloLTRsMS00eiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"></p>
+<p><img alt="AMD Vivado" src="assets/skills/vivado.svg" width="120" height="128"> <img alt="AMD Vitis" src="assets/skills/vitis.svg" width="120" height="128"> <img alt="AMD PDM" src="assets/skills/pdm.svg" width="120" height="128"></p>
 </td>
 <td width="50%" valign="top">
 <h3>06 &nbsp; Embedded systems</h3>
 <p><sub>Prototyping &nbsp; / &nbsp; hardware interfaces</sub></p>
-<p><img alt="Arduino" src="https://img.shields.io/badge/Arduino-454458?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-454458?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white"></p>
+<p><img alt="Arduino" src="assets/skills/arduino.svg" width="120" height="128"> <img alt="Raspberry Pi" src="assets/skills/raspberry-pi.svg" width="120" height="128"></p>
 </td>
 </tr>
 </table>
