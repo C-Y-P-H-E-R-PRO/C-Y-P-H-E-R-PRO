@@ -20,44 +20,46 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 
 ### Tools & tech stack
 
-<p><strong>From logic to layout.</strong> &nbsp; <sub>The tools across my hardware learning journey.</sub></p>
+<p align="center"><strong>From logic to layout.</strong><br>
+<sub>The tools across my hardware learning journey.</sub></p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <h3>01 &nbsp; HDL &amp; programming</h3>
 <p><sub>Hardware description &nbsp; / &nbsp; scripting</sub></p>
-<p><img alt="Verilog" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/verilog.svg" width="120" height="128"> <img alt="C" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/c.svg" width="120" height="128"> <img alt="Python" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/python.svg" width="120" height="128"></p>
+<p><img alt="Verilog" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/verilog.svg" width="120" height="140"> <img alt="C" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/c.svg" width="120" height="140"> <img alt="Python" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/python.svg" width="120" height="140"></p>
 </td>
-<td width="50%" valign="top">
-<h3>02 &nbsp; Custom IC &amp; circuit simulation</h3>
+<td width="50%" valign="top" align="center">
+<h3>02 &nbsp; Custom IC &amp; simulation</h3>
 <p><sub>Schematic &nbsp; / &nbsp; simulation &nbsp; / &nbsp; layout</sub></p>
-<p><img alt="Cadence Virtuoso" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/cadence-virtuoso.svg" width="120" height="128"> <img alt="Spectre" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/spectre.svg" width="120" height="128"> <img alt="ADE Explorer" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/ade-explorer.svg" width="120" height="128"></p>
+<p><img alt="Cadence Virtuoso" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/cadence-virtuoso.svg" width="120" height="140"> <img alt="Spectre" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/spectre.svg" width="120" height="140"> <img alt="ADE Explorer" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/ade-explorer.svg" width="120" height="140"></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>03 &nbsp; Digital design &amp; analysis</h3>
-<p><sub>Synthesis &nbsp; / &nbsp; implementation &nbsp; / &nbsp; timing &nbsp; / &nbsp; verification</sub></p>
-<p><img alt="Genus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/genus.svg" width="120" height="128"> <img alt="Innovus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/innovus.svg" width="120" height="128"> <img alt="Tempus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/tempus.svg" width="120" height="128"><br>
-<img alt="Voltus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/voltus.svg" width="120" height="128"> <img alt="Xcelium" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/xcelium.svg" width="120" height="128"> <img alt="SimVision" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/simvision.svg" width="120" height="128"></p>
+<td width="50%" valign="top" align="center">
+<h3>03 &nbsp; Digital implementation</h3>
+<p><sub>Synthesis &nbsp; / &nbsp; timing &nbsp; / &nbsp; power</sub></p>
+<p><img alt="Genus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/genus.svg" width="120" height="140"> <img alt="Innovus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/innovus.svg" width="120" height="140"><br>
+<img alt="Tempus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/tempus.svg" width="120" height="140"> <img alt="Voltus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/voltus.svg" width="120" height="140"></p>
 </td>
-<td width="50%" valign="top">
-<h3>04 &nbsp; Physical verification &amp; extraction</h3>
-<p><sub>Geometry &nbsp; / &nbsp; connectivity &nbsp; / &nbsp; parasitics</sub></p>
-<p><img alt="Pegasus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/pegasus.svg" width="120" height="128"> <img alt="Quantus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/quantus.svg" width="120" height="128"><br></p>
+<td width="50%" valign="top" align="center">
+<h3>04 &nbsp; Verification &amp; extraction</h3>
+<p><sub>Simulation &nbsp; / &nbsp; verification &nbsp; / &nbsp; parasitics</sub></p>
+<p><img alt="Xcelium" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/xcelium.svg" width="120" height="140"> <img alt="SimVision" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/simvision.svg" width="120" height="140"><br>
+<img alt="Pegasus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/pegasus.svg" width="120" height="140"> <img alt="Quantus" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/quantus.svg" width="120" height="140"></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>05 &nbsp; FPGA design &amp; development</h3>
-<p><sub>FPGA implementation &nbsp; / &nbsp; software &nbsp; / &nbsp; power planning</sub></p>
-<p><img alt="AMD Vivado" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/vivado.svg" width="120" height="128"> <img alt="AMD Vitis" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/vitis.svg" width="120" height="128"> <img alt="AMD PDM" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/pdm.svg" width="120" height="128"></p>
+<td width="50%" valign="top" align="center">
+<h3>05 &nbsp; FPGA development</h3>
+<p><sub>Implementation &nbsp; / &nbsp; software &nbsp; / &nbsp; power</sub></p>
+<p><img alt="AMD Vivado" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/vivado.svg" width="120" height="140"> <img alt="AMD Vitis" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/vitis.svg" width="120" height="140"> <img alt="AMD PDM" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/pdm.svg" width="120" height="140"></p>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <h3>06 &nbsp; Embedded systems</h3>
 <p><sub>Prototyping &nbsp; / &nbsp; hardware interfaces</sub></p>
-<p><img alt="Arduino" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/arduino.svg" width="120" height="128"> <img alt="Raspberry Pi" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/8cd45cefa7944f4792b7dc247666eb0c28293e73/assets/skills/raspberry-pi.svg" width="120" height="128"></p>
+<p><img alt="Arduino" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/arduino.svg" width="120" height="140"> <img alt="Raspberry Pi" src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/34e3fdb211c7fc40d43d20364ffe52e2f1f4f8ee/assets/skills/raspberry-pi.svg" width="120" height="140"></p>
 </td>
 </tr>
 </table>
