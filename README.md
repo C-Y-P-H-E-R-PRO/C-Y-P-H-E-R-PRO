@@ -27,7 +27,7 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 <td width="50%" valign="top">
 <h3>01 &nbsp; HDL &amp; programming</h3>
 <p><sub>Hardware description &nbsp; / &nbsp; scripting</sub></p>
-<p><img alt="Verilog" src="https://img.shields.io/badge/Verilog-334155?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-334155?style=for-the-badge&amp;logo=c&amp;logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-334155?style=for-the-badge&amp;logo=python&amp;logoColor=white"></p>
+<p><img alt="Verilog" src="https://img.shields.io/badge/Verilog-334155?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDJoMnYzaDJWMmgydjNoMlYyaDJ2M2gydjJoM3YyaC0zdjJoM3YyaC0zdjJoM3YyaC0zdjJoLTJ2M2gtMnYtM2gtMnYzaC0ydi0zSDl2M0g3di0zSDV2LTJIMnYtMmgzdi0ySDJ2LTJoM1Y5SDJWN2gzVjVoMlYyem0wIDV2MTBoMTBWN0g3em0yIDJoNnY2SDlWOXoiLz48L3N2Zz4%3D&amp;logoColor=white"> <img alt="C" src="assets/c-badge.svg"> <img alt="Python" src="https://img.shields.io/badge/Python-334155?style=for-the-badge&amp;logo=python&amp;logoColor=white"></p>
 </td>
 <td width="50%" valign="top">
 <h3>02 &nbsp; Custom IC &amp; circuit simulation</h3>
