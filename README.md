@@ -21,7 +21,7 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 ### Tools & tech stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/e247c4474c13322f6128174411decd4ad27cbcd9/assets/skills-board.svg" alt="Tools and tech stack: Verilog, C, Python; Cadence Virtuoso, Spectre, ADE Explorer; Genus, Innovus, Tempus, Voltus; Xcelium, SimVision, Pegasus, Quantus; AMD Vivado, Vitis, PDM; Arduino and Raspberry Pi." width="100%">
+  <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/d993430eda874b483a4751e08ac9c2f65ac13bd6/assets/skills-board.svg" alt="Tools and tech stack: Verilog, C, Python; Cadence Virtuoso, Spectre, ADE Explorer; Genus, Innovus, Tempus, Voltus; Xcelium, SimVision, Pegasus, Quantus; AMD Vivado, Vitis, PDM; KiCad, Arduino and Raspberry Pi." width="100%">
 </p>
 
 #### Skills in text
@@ -33,7 +33,7 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 | Digital implementation | Cadence Genus, Cadence Innovus, Cadence Tempus, Cadence Voltus |
 | Verification & extraction | Cadence Xcelium, Cadence SimVision, Cadence Pegasus, Cadence Quantus |
 | FPGA development | AMD Vivado, AMD Vitis, AMD PDM |
-| Embedded systems | Arduino, Raspberry Pi |
+| PCB & embedded systems | KiCad, Arduino, Raspberry Pi |
 
 ### My learning loop
 
