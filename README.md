@@ -24,6 +24,17 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
   <img src="https://raw.githubusercontent.com/C-Y-P-H-E-R-PRO/C-Y-P-H-E-R-PRO/e247c4474c13322f6128174411decd4ad27cbcd9/assets/skills-board.svg" alt="Tools and tech stack: Verilog, C, Python; Cadence Virtuoso, Spectre, ADE Explorer; Genus, Innovus, Tempus, Voltus; Xcelium, SimVision, Pegasus, Quantus; AMD Vivado, Vitis, PDM; Arduino and Raspberry Pi." width="100%">
 </p>
 
+#### Skills in text
+
+| Skill area | Tools |
+| --- | --- |
+| HDL & programming | Verilog, C, Python |
+| Custom IC & simulation | Cadence Virtuoso, Cadence Spectre, Cadence ADE Explorer |
+| Digital implementation | Cadence Genus, Cadence Innovus, Cadence Tempus, Cadence Voltus |
+| Verification & extraction | Cadence Xcelium, Cadence SimVision, Cadence Pegasus, Cadence Quantus |
+| FPGA development | AMD Vivado, AMD Vitis, AMD PDM |
+| Embedded systems | Arduino, Raspberry Pi |
+
 ### My learning loop
 
 **Understand &nbsp; → &nbsp; Design &nbsp; → &nbsp; Simulate &nbsp; → &nbsp; Verify &nbsp; → &nbsp; Document**
