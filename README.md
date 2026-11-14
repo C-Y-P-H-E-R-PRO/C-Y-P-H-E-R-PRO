@@ -37,16 +37,15 @@ I'm building my foundation in **Verilog, CMOS design, simulation and IC layout**
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 &nbsp; Digital implementation &amp; analysis</h3>
-<p><sub>Implementation &nbsp; / &nbsp; timing &nbsp; / &nbsp; power &nbsp; / &nbsp; debug</sub></p>
-<p><img alt="Innovus" src="assets/skills/innovus.svg" width="120" height="128"> <img alt="Tempus" src="assets/skills/tempus.svg" width="120" height="128"><br>
-<img alt="Voltus" src="assets/skills/voltus.svg" width="120" height="128"> <img alt="SimVision" src="assets/skills/simvision.svg" width="120" height="128"></p>
+<h3>03 &nbsp; Digital design &amp; analysis</h3>
+<p><sub>Synthesis &nbsp; / &nbsp; implementation &nbsp; / &nbsp; timing &nbsp; / &nbsp; verification</sub></p>
+<p><img alt="Genus" src="assets/skills/genus.svg" width="120" height="128"> <img alt="Innovus" src="assets/skills/innovus.svg" width="120" height="128"> <img alt="Tempus" src="assets/skills/tempus.svg" width="120" height="128"><br>
+<img alt="Voltus" src="assets/skills/voltus.svg" width="120" height="128"> <img alt="Xcelium" src="assets/skills/xcelium.svg" width="120" height="128"> <img alt="SimVision" src="assets/skills/simvision.svg" width="120" height="128"></p>
 </td>
 <td width="50%" valign="top">
 <h3>04 &nbsp; Physical verification &amp; extraction</h3>
 <p><sub>Geometry &nbsp; / &nbsp; connectivity &nbsp; / &nbsp; parasitics</sub></p>
-<p><img alt="Pegasus" src="assets/skills/pegasus.svg" width="120" height="128"> <img alt="Quantus" src="assets/skills/quantus.svg" width="120" height="128"><br>
-<img alt="DRC" src="assets/skills/drc.svg" width="120" height="128"> <img alt="LVS" src="assets/skills/lvs.svg" width="120" height="128"></p>
+<p><img alt="Pegasus" src="assets/skills/pegasus.svg" width="120" height="128"> <img alt="Quantus" src="assets/skills/quantus.svg" width="120" height="128"><br></p>
 </td>
 </tr>
 <tr>

@@ -1,5 +1,10 @@
 # Skills card artwork
 
-Cards use local SVG assets, with large logos above tool names.
+Cards place company or language logos above tool names, preserving the artwork's original colors.
 
-AMD, C, Python, Arduino, and Raspberry Pi marks use paths from [Simple Icons](https://github.com/simple-icons/simple-icons) under its [CC0 license](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). Other marks are custom circuit, waveform, verification, and power symbols. Brand names and marks belong to their respective owners.
+- Cadence artwork: [official Cadence newsroom](https://newsroom.cadence.com/overview/default.aspx), downloaded from its [company logo asset](https://s21.q4cdn.com/125134136/files/design/logos/Cadence_Logo_Red_185_Reg.png). The original file is retained in `../brands/cadence.png`.
+- AMD mark: [Simple Icons](https://github.com/simple-icons/simple-icons), displayed in white on a dark background; [CC0 license](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md).
+- C, Python, Arduino, and Raspberry Pi artwork: [Devicon](https://github.com/devicons/devicon), using its original-color SVG assets; [MIT license](https://github.com/devicons/devicon/blob/master/LICENSE).
+- Verilog and the PDM secondary power symbol use custom circuit artwork.
+
+Brand names and marks belong to their respective owners.
