@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="128" viewBox="0 0 120 128" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="140" viewBox="0 0 120 140" role="img" aria-labelledby="title">
   <title id="title">AMD PDM</title>
-  <rect x="0.5" y="0.5" width="119" height="127" rx="12" fill="#151d25" stroke="#34434f" />
-  <rect x="10" y="8" width="100" height="58" rx="9" fill="#202c35" />
+  <rect x="3.5" y="3.5" width="113" height="132" rx="14" fill="#151e27" stroke="#364650" />
+  <rect x="10" y="12" width="100" height="56" rx="9" fill="#202c35" />
   <svg x="18" y="22" width="84" height="28" viewBox="0 8 24 8" fill="#ffffff"><path d="M18.324 9.137l1.559 1.56h2.556v2.557L24 14.814V9.137zM2 9.52l-2 4.96h1.309l.37-.982H3.9l.408.982h1.338L3.432 9.52zm4.209 0v4.955h1.238v-3.092l1.338 1.562h.188l1.338-1.556v3.091h1.238V9.52H10.47l-1.592 1.845L7.287 9.52zm6.283 0v4.96h2.057c1.979 0 2.88-1.046 2.88-2.472 0-1.36-.937-2.488-2.747-2.488zm1.237.91h.792c1.17 0 1.63.711 1.63 1.57 0 .728-.372 1.572-1.616 1.572h-.806zm-10.985.273l.791 1.932H2.008zm17.137.307l-1.604 1.603v2.25h2.246l1.604-1.607h-2.246z" /></svg>
-  <text x="60" y="91" text-anchor="middle" fill="#f1f5f9" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700">AMD PDM</text>
-  <text x="60" y="113" text-anchor="middle" fill="#a8c8fa" font-family="DejaVu Sans,Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="0.6">POWER PLANNING</text>
+  <text x="60" y="94" text-anchor="middle" fill="#f3f6f8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700">AMD PDM</text>
+  <text x="60" y="117" text-anchor="middle" fill="#adbfce" font-family="DejaVu Sans,Arial,sans-serif" font-size="8" font-weight="600" letter-spacing="0.35">POWER PLANNING</text>
   <svg x="97" y="50" width="16" height="16" viewBox="0 0 24 24"><g fill="none" stroke="#a8c8fa" stroke-width="1.6" stroke-linecap="round"><rect x="5" y="5" width="14" height="14" rx="3" /><path d="M8 2v3m4-3v3m4-3v3M8 19v3m4-3v3m4-3v3M2 8h3m-3 4h3m-3 4h3m14-8h3m-3 4h3m-3 4h3" /></g><path fill="#a8c8fa" d="m13 6-6 8h4l-1 5 7-9h-4l1-4z" /></svg>
 </svg>
